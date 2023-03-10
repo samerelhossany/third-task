@@ -1,0 +1,124 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.upper-image{
+height: 30px;
+width: 30px;
+display:inline;
+padding: 10px;
+vertical-align: middle;
+              }
+
+.upper-bar{
+  width: 250px;  
+  box-sizing: border-box;
+  margin-top: 10px;
+  
+  
+          }
+
+.upper-text{
+    display:inline;
+    padding-right: 10px;
+    margin-left: 15px;
+    width: 20%;  
+            }
+
+.middle-image {
+height: 200px;
+width:500px;
+}
+.middle-part{
+text-align: center;
+margin-top: 200px;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+.search-bar{
+width: 55%;
+height:35px;
+border-radius: 20px;
+margin-right: auto;
+margin-left: auto;
+margin-top: 60px;
+min-width: 200px;
+overflow: hidden;
+border:2px solid grey;
+padding: 5px;
+}
+
+.search-bar:hover{
+ transition: 1s;
+  box-shadow: 1px 2px 1px 2px  gray ;
+
+}
+
+
+.mic{
+  height: 20px;
+  width: 16px;
+  display: inline;
+ margin-left: 80%;
+ margin-top: -26;
+ 
+
+    }
+.cam{
+      height: 18px;
+      width: 22px;
+      display: inline;
+      margin-left: 90%;
+      margin-top: -26;
+     
+      
+        }
+.search-area{
+height: 100%;
+display: inline;
+margin-right: -30px;
+
+border: none;
+width:50%;
+min-width: 150px;
+  }
+.buttons{
+display:inline;
+
+}
+.search{
+
+  padding: 5px;
+  margin-top:10px;
+  width:120px;
+  border:none;
+
+}
+.search-icon{
+  margin-right:95%;
+  margin-top: 10px;
+  height: 18px;
+  width: 20px;
+  display: inline;
+ 
+}
+.search:hover{
+  border: gray solid 1px;
+ 
+}
+.lucky{
+
+  padding: 5px;
+  margin-top:10px;
+  width:120px;
+  border:none;
+
+
+}
+
+.lucky:hover{
+  border: gray solid 1px;
+  transition: 2s;
+}
